@@ -677,12 +677,22 @@ a {
 }
 .text-seo p {
     font-family: "helvetica";
-    font-size: 13px;
+    font-size: 13.4px;
     text-align: center;
 }
 
+.remplacement__citation{
+    text-align: center;
+}
+
+.remplacement__auteur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -746,6 +756,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    
 }
 
 .portfolio-row {
@@ -823,11 +834,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
