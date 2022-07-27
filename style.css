@@ -366,7 +366,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: 20px;
+        right: 10rem;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
@@ -706,6 +706,9 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+}
+.site-navigation a{
+    margin-right: 20px;
 }
 
 .cta-hero {
