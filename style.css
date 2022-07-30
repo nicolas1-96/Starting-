@@ -694,6 +694,9 @@ a {
 .liens-footer li {
     margin-bottom: 10px;
 }
+.titre-footer{
+    color: #000000;
+}
 
 p {
     font-size: 14px;
@@ -761,7 +764,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #f3f3f3!important;
 }
 
 .portfolio-thumb {
