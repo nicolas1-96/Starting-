@@ -691,6 +691,10 @@ a {
     align-items: center;
 }
 
+.liens-footer li {
+    margin-bottom: 10px;
+}
+
 p {
     font-size: 14px;
 }
