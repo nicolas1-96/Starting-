@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -683,12 +683,14 @@ a {
 
 .remplacement__citation{
     text-align: center;
+    color: #000000;
 }
 
 .remplacement__auteur{
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #000000;
 }
 
 .liens-footer li {
@@ -705,6 +707,7 @@ p {
 .remplacement__titre-2{
     font-size: larger;
 }
+
 
 .tight-width-whitespace {
     max-width: 600px;
