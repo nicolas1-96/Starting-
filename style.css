@@ -807,12 +807,16 @@ h4 {
 }
 
 .tc-white {
-    color: #f3f3f3!important;
+    color: white!important;
+}
+
+.color-texto{
+    color: #000000;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
