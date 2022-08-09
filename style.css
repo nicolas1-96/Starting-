@@ -813,7 +813,9 @@ h4 {
 .color-texto{
     color: #000000;
 }
-
+.color-iconos{
+    color: #000000;
+}
 .btn-atomic-tangerine {
     background: #F3976C;
     color: black!important;
